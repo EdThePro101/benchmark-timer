@@ -6,5 +6,7 @@
     "editor.formatOnSave": false
   },
   "editor.tabSize": 4,
-  "editor.detectIndentation": false
+  "editor.detectIndentation": false,
+  "licenser.author": "Edwin Pratt",
+  "licenser.license": "MIT"
 }
