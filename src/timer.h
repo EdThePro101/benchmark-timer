@@ -1,3 +1,8 @@
+// Copyright (c) 2019 Edwin
+// 
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
+
 #ifndef TIMER_H
 #define TIMER_H
 
