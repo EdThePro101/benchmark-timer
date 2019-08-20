@@ -1,4 +1,4 @@
-// Copyright (c) 2019 Edwin
+// Copyright (c) 2019 Edwin Pratt
 // 
 // This software is released under the MIT License.
 // https://opensource.org/licenses/MIT
@@ -33,4 +33,4 @@ public:
     }
 };
 
-#endif
+#endif // TIMER_H
